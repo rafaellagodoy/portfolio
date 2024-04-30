@@ -168,7 +168,7 @@ body{
     color: #f3f3f3;
     text-align: center;
     padding: 10px;
-    font-size: 20px;
+    font-size: 15px;
     transition: opacity 0.3s ease-in-out;
 }
 
@@ -177,13 +177,16 @@ body{
 }
 
 .projetos .projeto1{
-    background-color: #BF572E;
+    background-color: #cecb18;
+    border-radius: 10px;
 }
 
 .projetos .projeto2{
-    background-color: #1890B1;
+    background-color: #afa3a3;
+    border-radius: 10px;
 }
 
 .projetos .projeto3{
-    background-color: #7918b1;
+    background-color: #be53a7;
+    border-radius: 10px;
 }
